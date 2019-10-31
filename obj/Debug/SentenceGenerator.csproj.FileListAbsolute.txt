@@ -1,7 +1,0 @@
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\bin\Debug\SentenceGenerator.exe.config
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\bin\Debug\SentenceGenerator.exe
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\bin\Debug\SentenceGenerator.pdb
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\obj\Debug\SentenceGenerator.csprojAssemblyReference.cache
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\obj\Debug\SentenceGenerator.csproj.CoreCompileInputs.cache
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\obj\Debug\SentenceGenerator.exe
-C:\Users\Bartek\source\repos\SentenceGenerator\SentenceGenerator\obj\Debug\SentenceGenerator.pdb
